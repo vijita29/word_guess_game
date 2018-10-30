@@ -1,2 +1,2 @@
 # word_guess_game
-Test 1 for Hangman game (CLI)
+It is python script which tell you to identify the name with limited number of guesses.
